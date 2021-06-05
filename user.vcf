@@ -1,14 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
-item2.X-ABLabel:_$!<HomePage>!$_
+FN: McKenzie Garone 
+ORG:Issa Side Hustle;
+EMAIL;type=WORK;type=pref:ishbymac@gmail.com
+TEL;type=WORK;type=VOICE:+18022221156
+item1.URL;type=pref:https://www.instagram.com/issa.side.hustle/?hl=en
+item1.X-ABLabel:_$!<Instagram>!$_
+item2.URL;type=pref:https://www.etsy.com/shop/IssaSideHustle
+item2.X-ABLabel:_$!<Etsy>!$_
 END:VCARD
