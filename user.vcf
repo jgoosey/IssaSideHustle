@@ -6,7 +6,7 @@ ORG:Issa Side Hustle;
 EMAIL;type=WORK;type=pref:ishbymac@gmail.com
 TEL;type=WORK;type=VOICE:+18022221156
 item1.URL;type=pref:https://www.instagram.com/issa.side.hustle/?hl=en
-item1.X-ABLabel:_$!<Instagram>!$_
+item1.X-ABLabel:Instagram
 item2.URL;type=pref:https://www.etsy.com/shop/IssaSideHustle
-item2.X-ABLabel:_$!<Etsy>!$_
+item2.X-ABLabel:Etsy
 END:VCARD
