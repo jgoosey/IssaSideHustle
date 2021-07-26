@@ -168,7 +168,8 @@ img.profile-pic {
 }
 
 .btn-primary {
-	display: inline-block;
+	/*display: inline-block;*/
+	width: fit-content;
 	background-color: #b3ffb3;
 	height: 48px;
 	padding-left: 24px;
