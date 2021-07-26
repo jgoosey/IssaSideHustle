@@ -177,8 +177,8 @@ img.profile-pic {
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
 	color: black;
-	font-weight: 300;
-	text-shadow: .5px .5px #000000;
+	font-weight: 400;
+	/* text-shadow: .5px .5px #000000; */
 }
 
 @media screen and (max-width: 600px) {
