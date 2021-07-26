@@ -44,6 +44,10 @@ p {
     align-items: center;
 }
 
+.bottom {
+	display: grid;
+}
+
 .btn-primary {
 	padding: 20px 80px;
 	background-color: #b3ffb3;
